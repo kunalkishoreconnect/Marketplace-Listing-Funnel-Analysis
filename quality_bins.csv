@@ -1,0 +1,5 @@
+quality_band,listings,views,chats,leads,view_to_chat_pct,view_to_lead_pct
+0 Low,11,110,5,2,4.55,1.818
+1 Medium-Low,99,1429,137,32,9.59,2.239
+2 Medium,441,6455,641,175,9.93,2.711
+3 High,5449,96627,13210,4476,13.67,4.632
